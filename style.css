@@ -1,0 +1,46 @@
+
+.button-1{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 700;
+    background: linear-gradient( darkblue, blue);
+    border: none;
+    margin-bottom: 5px;
+}
+.orange-hgilight{
+    color: orange;
+}
+.navy-hilight{
+    color: navy;
+}
+.container-top{
+    background-color: #ffa07a1c;
+    border-radius: 20px;
+    margin: 1%;
+}
+.lomba{
+    height: 30px;
+}
+.price{
+    color: tomato;
+    font-size: xx-large;
+    margin-right: 100px;
+}
+.stay{
+    background-color: grey;
+    height: 300px;
+    margin-bottom: 30px;
+    width: 450px;
+}
+.chaya{
+    border-radius: 30px;
+}
+.logo{
+    height: 50px;
+    width: 290px;
+}
+.uccota{
+    margin-top: 15%;
+}
